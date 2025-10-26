@@ -18,8 +18,8 @@ ollama pull llama3.2:1b
 
 2. Install Project Files
 Clone the Repository:
-git clone [YOUR_GITHUB_REPO_URL]
-cd [YOUR_PROJECT_FOLDER_NAME]
+git clone [[YOUR_GITHUB_REPO_URL](https://github.com/raginisingh-del/Personal-ChatBot-/edit/main/README.md)]
+cd [Personal-ChatBot]
 
 Activate Environment: (Assuming your environment is named venv)
 .\venv\Scripts\Activate.ps1  # For Windows PowerShell
