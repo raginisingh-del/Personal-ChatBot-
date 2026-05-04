@@ -24,12 +24,14 @@ Personal-ChatBot is a lightweight, privacy-friendly local chatbot built with Str
 ⚙️ Installation
 1️⃣ Install Ollama
     Download and install Ollama from the official website.
+    
 2️⃣ Pull a model
    Pull the recommended model or the model currently configured in your app.py:
   ollama pull deepseek-r1:1.5b
+    (.\venv\Scripts\Activate.ps1), and install:
 
 3️⃣ Install dependencies
-    Navigate to your project folder, activate your virtual environment                                  (.\venv\Scripts\Activate.ps1), and install:
+    Navigate to your project folder, activate your virtual environment                                
     pip install streamlit requests
 
 🧩 Run the App
