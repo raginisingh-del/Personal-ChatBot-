@@ -1,4 +1,4 @@
-Personal-ChatBot — Chatbot using Ollama + Streamlit
+LLM-ChatBot — Chatbot using Ollama + Streamlit
 
 Personal-ChatBot is a lightweight, privacy-friendly local chatbot built with Streamlit and powered by Ollama models like deepseek-r1:1.5b. It supports multiple chat sessions, live response streaming, and even shows the model’s hidden thought process (using <think> tags, if supported by the model).
 
